@@ -1,27 +1,29 @@
-# Project Name
+# JS-beginner projects
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+![screenshot]()
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+
+* [Prettier](https://prettier.io/) for code formatting
+* [Stylelint](https://stylelint.io/) for CSS linting
+* [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
+* [Github Actions for workflow](https://github.com/features/actions)
+* [Netlify for deployment](https://app.netlify.com/)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/bimbolabuari/javascript-beginner-projects.git
+
 
 ```
 
@@ -68,11 +70,11 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
+## 👤 Abimbola Aminat
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabuari)
+- Linkedin: [@bimbolabuari](https://www.linkedin.com/in/bimbolabuari/)
 
 ## 🤝 Contributing
 
@@ -86,9 +88,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [@bolah2009](https://github.com/bolah2009)
 
 ## 📝 License
 
