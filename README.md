@@ -1,16 +1,22 @@
 # JS-beginner projects
 
-![screenshot]()
+This is a mini color palette projects that shows different colors in an array using event-listener "click", it shows the knowledge of DOM manipulation, Event-listener, functions, use of let and const variables, Array and Math floor for rounding up numbers, Math random for picking random numbers and string interpolation.
+
+![screenshot](screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- [Prettier](https://prettier.io/) for code formatting
-- [Stylelint](https://stylelint.io/) for CSS linting
-- [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
-- [Github Actions for workflow](https://github.com/features/actions)
-- [Netlify for deployment](https://app.netlify.com/)
+- HTML
+- CSS
+  JAVASCRIPT
+
+* [Prettier](https://prettier.io/) for code formatting
+* [Stylelint](https://stylelint.io/) for CSS linting
+* [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
+* [Github Actions for workflow](https://github.com/features/actions)
+* [Netlify for deployment](https://app.netlify.com/)
 
 ## Live Demo
 
