@@ -6,12 +6,11 @@ Additional description about the project and its features.
 
 ## Built With
 
-
-* [Prettier](https://prettier.io/) for code formatting
-* [Stylelint](https://stylelint.io/) for CSS linting
-* [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
-* [Github Actions for workflow](https://github.com/features/actions)
-* [Netlify for deployment](https://app.netlify.com/)
+- [Prettier](https://prettier.io/) for code formatting
+- [Stylelint](https://stylelint.io/) for CSS linting
+- [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
+- [Github Actions for workflow](https://github.com/features/actions)
+- [Netlify for deployment](https://app.netlify.com/)
 
 ## Live Demo
 
