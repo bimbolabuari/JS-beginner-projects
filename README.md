@@ -1,8 +1,8 @@
-# JS-beginner projects
+# Stopwatch javascript project
 
-![screenshot]()
+This project is done with html/css/javascript,using eventlistener,set interval and clear interval on the reset,start and stop button and a function of timeloop that takes a conditional statement, this project shows the basic knowledge of es6 javascript, {arrow function,let and const}, set interval and clear interval, DOM manipulation, conditional statement, eventlistener.
 
-Additional description about the project and its features.
+![screenshot](./screenshot.png)
 
 ## Built With
 
