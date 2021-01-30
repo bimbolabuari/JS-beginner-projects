@@ -1,6 +1,8 @@
-# JS-beginner projects
+# Diary-project
 
-![screenshot]()
+This project shows the basic knowledge of javascript using function, let and const, eventlistener amd DOM manipulation
+
+![screenshot](./screenshot.png)
 
 Additional description about the project and its features.
 
